@@ -1,0 +1,13 @@
+requests>=2.32.0
+Flask>=3.0.0
+gunicorn>=22.0.0
+google-api-python-client>=2.150.0
+tkinterweb>=2.150.0
+google-auth>=2.35.0
+google-auth-oauthlib>=1.2.1
+google-auth-httplib2>=0.2.0
+reportlab>=4.2.0
+Pillow>=10.4.0
+
+xhtml2pdf>=0.2.16
+PyMuPDF>=1.24.10
